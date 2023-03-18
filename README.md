@@ -2,7 +2,7 @@
 
 🌱 I'm working as a freelance fullstack Software engineer.
 
-💬 Ask me about **React, Node, TS, PostgreSQL**
+💬 Ask me about **React, Node, TS, PostgreSQL, MnogoDB, Ansible, CI/CD, Devops or other**
 
 📫 Reach me on <strong><a href="mailto:f.delacomble@gmail.com">f.delacomble@gmail.com</a></strong>, **[linkedin](https://www.linkedin.com/in/florian-de-la-comble-5aa95895/)** or **[malt](https://www.malt.fr/profile/floriandelacomble)**
 
