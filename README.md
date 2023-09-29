@@ -11,5 +11,5 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=flodlc&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=7D7CFF&ring=7D7CFF&currStreakLabel=7D7CFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=flodlc&theme=dark&hide_border=true&ring=7D7CFF)](https://git.io/streak-stats)
 
