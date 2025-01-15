@@ -10,5 +10,3 @@
 * 📫 Reach me on <strong><a href="mailto:f.delacomble@gmail.com">f.delacomble@gmail.com</a></strong>, **[linkedin](https://www.linkedin.com/in/florian-de-la-comble-5aa95895/)** or **[malt](https://www.malt.fr/profile/floriandelacomble)**
 
 <br />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=flodlc&theme=dark&hide_border=true&ring=7D7CFF&background=0E1117)](https://git.io/streak-stats)
